@@ -2,7 +2,9 @@
   "blocklist": [
     "ads.",
     "doubleclick.net",
+    "googlesyndication.com",
     "tracker.",
-    "googlesyndication.com"
+    "pagead.",
+    "analytics."
   ]
 }
